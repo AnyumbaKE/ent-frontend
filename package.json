@@ -1,0 +1,37 @@
+{
+  "name": "ent-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyumbaKE/ent-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyumbaKE/ent-frontend/issues"
+  },
+  "homepage": "https://github.com/AnyumbaKE/ent-frontend#readme",
+  "description": "",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "vite": "^7.1.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@tailwindcss/vite": "^4.1.13",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13"
+  }
+}
